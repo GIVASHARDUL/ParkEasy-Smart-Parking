@@ -1,13 +1,18 @@
-# ParkEasy – Smart Parking Prototype
+# 🚗 ParkEasy — Smart Parking Prototype
 
-**Developed by Team NOVA**
+### A smarter parking experience, designed by Team NOVA
 
-## About the Project
+**ParkEasy** is a 3D smart parking concept created in Blender to explore a more organized and convenient parking experience.
 
-ParkEasy is a smart parking concept designed to make parking simpler, more organized, and convenient for drivers. We created a 3D parking garage prototype using Blender to visualize how a modern parking facility could look and operate.
+![Project Status](https://img.shields.io/badge/Status-3D%20Prototype-00BCD4)
+![Made With](https://img.shields.io/badge/Made%20with-Blender-orange)
+![Team](https://img.shields.io/badge/Team-NOVA-blue)
 
-The project focuses on the garage layout, vehicle movement, parking spaces, and entry and exit management.
+---
 
+## 🌟 Our Vision
+
+To make parking easier through thoughtful design, organized parking spaces, and a foundation for future smart parking technology.
 ## Features
 
 - 3D parking garage environment
