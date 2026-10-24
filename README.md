@@ -1,59 +1,46 @@
 # 🚗 ParkEasy — Smart Parking Prototype
 
-### A smarter parking experience, designed by Team NOVA
+### Designed by Team NOVA | Yukthi 2026
 
-**ParkEasy** is a 3D smart parking concept created in Blender to explore a more organized and convenient parking experience.
+ParkEasy is a smart parking concept developed by Team NOVA to explore how technology and thoughtful design can make parking simpler and more organized. We created a 3D garage prototype in Blender to visualize the layout, vehicle movement, and entry and exit management of a modern parking facility.
 
-![Project Status](https://img.shields.io/badge/Status-3D%20Prototype-00BCD4)
-![Made With](https://img.shields.io/badge/Made%20with-Blender-orange)
-![Team](https://img.shields.io/badge/Team-NOVA-blue)
+Our goal is to explore a practical solution to everyday parking challenges and build a foundation for smarter parking in the future.
 
 ---
 
-## 🌟 Our Vision
+## 🌟 Project Overview
 
-To make parking easier through thoughtful design, organized parking spaces, and a foundation for future smart parking technology.
-## Features
+Finding a convenient parking space can be frustrating, especially in busy areas. ParkEasy explores how a well-designed parking facility could improve the experience for drivers through organized parking spaces, clear signage, and streamlined vehicle entry and exit.
 
-- 3D parking garage environment
-- Parking bays and vehicle placement
-- Entry and exit barriers
-- Directional signage and ParkEasy branding
-- Modern lighting and visual design
-- Animated elements for prototype demonstration
+The current prototype focuses on visualizing the concept and its physical layout.
 
-## Tools Used
+## ✨ Key Features
 
-- **Blender** – 3D modelling, scene design, animation, and rendering
-- **GitHub** – Project hosting and documentation
+- 🏢 **3D Garage Design** — A detailed visual model of a modern parking facility.
+- 🚘 **Parking Layout** — Organized parking bays and vehicle placement.
+- 🚧 **Entry & Exit Management** — Barrier gates and designated vehicle access points.
+- 🪧 **Directional Signage** — Clear signs and ParkEasy branding.
+- 💡 **Modern Lighting** — Lighting and visual details for a professional presentation.
+- 🎬 **Prototype Animation** — Animated elements to demonstrate the proposed parking environment.
 
-## How It Works
+## 🖼️ Project Preview
 
-The current prototype presents the visual design of a smart parking facility, including its parking layout and vehicle entry and exit points. It demonstrates our initial concept and provides a foundation for future development.
+Explore the `screenshots/` folder to view the garage design, parking layout, and entry/exit areas.
 
-## Future Improvements
+<!-- Add your best render here after confirming its filename -->
+<!-- ![ParkEasy Garage Preview](screenshots/hero-render.jpg) -->
 
-- Real-time parking slot availability
-- Automatic detection of vacant parking spaces
-- Vehicle entry and exit automation
-- A user interface for finding available slots
-- Integration with sensors or a smart parking management system
+## 🛠️ Tools & Technologies
 
-## Project Status
+- **Blender** — 3D modelling, scene design, animation, and rendering.
+- **GitHub** — Project versioning, file hosting, and documentation.
 
-This project is currently a **3D visual prototype**. Smart parking features such as live slot detection and real-time availability are planned for future development and are not yet implemented.
+## ⚙️ How to Explore the Prototype
 
-## Team
+1. Download the `.blend` project file from this repository.
+2. Open it using Blender.
+3. Navigate through the scene to explore the garage, parking bays, signage, and gates.
+4. Switch to the camera view to see the intended presentation.
+5. Play the timeline if animations are included in the saved project.
 
-**Team NOVA**
 
-Project: ParkEasy – Smart Parking Prototype
-
-## Demo
-
-- **Prototype video:** Add your demo video link here.
-- **Project repository:** This GitHub repository.
-
-## Acknowledgements
-
-This project was developed as an exploration of how 3D design and technology can help address everyday parking challenges.
