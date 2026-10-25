@@ -1,46 +1,45 @@
 # 🚗 ParkEasy — Smart Parking Prototype
 
-### Designed by Team NOVA | Yukthi 2026
+### A Modern Parking Facility Concept by Team NOVA | Yukthi 2026
 
-ParkEasy is a smart parking concept developed by Team NOVA to explore how technology and thoughtful design can make parking simpler and more organized. We created a 3D garage prototype in Blender to visualize the layout, vehicle movement, and entry and exit management of a modern parking facility.
+**ParkEasy** is a 3D smart parking prototype developed by **Team NOVA** for Yukthi 2026. The project explores how thoughtful parking-facility design and technology-inspired concepts can improve parking organization, vehicle access, and the overall parking experience.
 
-Our goal is to explore a practical solution to everyday parking challenges and build a foundation for smarter parking in the future.
+Developed using **Blender**, the prototype presents a modern parking garage with organized parking bays, vehicle placement, entry and exit barriers, directional signage, and presentation lighting.
+
+Our vision is to establish a foundation for smarter, more efficient parking solutions that address everyday parking challenges.
+
+---
+
+## 📌 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Problem Statement](#-problem-statement)
+- [Project Objectives](#-project-objectives)
+- [Key Features](#-key-features)
+- [Prototype Preview](#-prototype-preview)
+- [Technology Stack](#-technology-stack)
+- [How to Explore the Prototype](#-how-to-explore-the-prototype)
+- [Current Scope](#-current-scope)
+- [Future Enhancements](#-future-enhancements)
+- [Team](#-team)
+- [Acknowledgements](#-acknowledgements)
 
 ---
 
 ## 🌟 Project Overview
 
-Finding a convenient parking space can be frustrating, especially in busy areas. ParkEasy explores how a well-designed parking facility could improve the experience for drivers through organized parking spaces, clear signage, and streamlined vehicle entry and exit.
+Finding suitable parking can be time-consuming, particularly in busy locations where parking spaces and vehicle access points are difficult to navigate.
 
-The current prototype focuses on visualizing the concept and its physical layout.
+ParkEasy explores a more organized approach through the visual design of a modern parking facility. The 3D model demonstrates how structured parking bays, designated entry and exit routes, barrier gates, and clear signage can contribute to a better-organized parking environment.
 
-## ✨ Key Features
+The current implementation is a **visual 3D prototype** designed to communicate the concept, layout, and proposed vehicle-access arrangements.
 
-- 🏢 **3D Garage Design** — A detailed visual model of a modern parking facility.
-- 🚘 **Parking Layout** — Organized parking bays and vehicle placement.
-- 🚧 **Entry & Exit Management** — Barrier gates and designated vehicle access points.
-- 🪧 **Directional Signage** — Clear signs and ParkEasy branding.
-- 💡 **Modern Lighting** — Lighting and visual details for a professional presentation.
-- 🎬 **Prototype Animation** — Animated elements to demonstrate the proposed parking environment.
+## 🎯 Problem Statement
 
-## 🖼️ Project Preview
+Parking facilities can become difficult to navigate when parking spaces, traffic flow, and entry and exit points are not clearly organized.
 
-Explore the `screenshots/` folder to view the garage design, parking layout, and entry/exit areas.
+ParkEasy aims to explore a structured parking-facility design that emphasizes:
 
-<!-- Add your best render here after confirming its filename -->
-<!-- ![ParkEasy Garage Preview](screenshots/hero-render.jpg) -->
-
-## 🛠️ Tools & Technologies
-
-- **Blender** — 3D modelling, scene design, animation, and rendering.
-- **GitHub** — Project versioning, file hosting, and documentation.
-
-## ⚙️ How to Explore the Prototype
-
-1. Download the `.blend` project file from this repository.
-2. Open it using Blender.
-3. Navigate through the scene to explore the garage, parking bays, signage, and gates.
-4. Switch to the camera view to see the intended presentation.
-5. Play the timeline if animations are included in the saved project.
-
-
+- Better organization of parking spaces.
+- Clearer vehicle entry and exit arrangements.
+- Improved visual guidance through
